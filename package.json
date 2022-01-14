@@ -1,0 +1,23 @@
+{
+  "name": "test-mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose2379/test-mocha-chai.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jose2379/test-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/jose2379/test-mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
